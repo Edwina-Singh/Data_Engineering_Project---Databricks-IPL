@@ -3,7 +3,7 @@
 Description
 Ball By Ball Data of all the IPL seasons (637 matches including 2017) A Complete datawarehouse
 
-Summary
+Summary: 
 This data set has the ball by ball data of all the Indian Premier League (IPL) matches till 2017 season.
 
 Source: http://cricsheet.org/ (data is available on this website in the YAML format)
